@@ -61,3 +61,12 @@ This script:
 
 
 ## See 📚 https://docs.browser-use.com/introduction for more examples and documentation
+
+## Dependencies
+
+- `browser-use`: Main library for browser automation with AI
+- `langchain_openai`: For integration with OpenAI models
+- `playwright`: For web automation
+- `pydantic`: For data validation and structure
+- `python-dotenv`: For environment variable management
+

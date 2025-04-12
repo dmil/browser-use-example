@@ -37,11 +37,11 @@ Then edit the `.env` file to add your API keys (at minimum, the OPENAI_API_KEY i
 python test_basic.py
 ```
 
-This example shows the basic pattern of creating an Agent with a task and an LLM, then running it.
+This example just outputs text to the console.
 
 ### Structured Output
 
-`test_structured_output.py` shows how to extract structured data using Pydantic models:
+But what if you want JSON or otherwise machine-readable output? `test_structured_output.py` shows how to extract structured data using Pydantic models.
 
 ```bash
 python test_structured_output.py

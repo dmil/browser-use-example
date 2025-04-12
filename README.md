@@ -60,14 +60,4 @@ This script:
 - **Browser**: Handles the underlying web browsing mechanics
 
 
-## Dependencies
-
-- `browser-use`: Main library for browser automation with AI
-- `langchain_openai`: For integration with OpenAI models
-- `playwright`: For web automation
-- `pydantic`: For data validation and structure
-- `python-dotenv`: For environment variable management
-
-## Notes
-
-This repository is intended as a demonstration of the `browser-use` library's capabilities for creating AI agents that can browse the web and extract information in a structured format.
+## See 📚 https://docs.browser-use.com/introduction for more examples and documentation

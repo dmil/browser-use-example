@@ -59,8 +59,8 @@ This script:
 - **Controller**: Manages the structured output format
 - **Browser**: Handles the underlying web browsing mechanics
 
-
-## See 📚 https://docs.browser-use.com/introduction for more examples and documentation
+## READ THIS !!!!
+Check out [📚 https://docs.browser-use.com/introduction](https://docs.browser-use.com/introduction) for more examples and documentation
 
 ## Dependencies
 

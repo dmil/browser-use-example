@@ -70,3 +70,5 @@ This script:
 - `pydantic`: For data validation and structure
 - `python-dotenv`: For environment variable management
 
+
+🤖 Disclaimer: README was made by ChatGPT with light edits from Dhrumil
